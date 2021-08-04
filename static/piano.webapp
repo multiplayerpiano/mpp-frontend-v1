@@ -1,0 +1,8 @@
+{
+	"name": "Multiplayer Piano",
+	"description": "A simple piano that you can play together.",
+	"version": "13",
+	"icons": {
+		"128": "/128-piano.png"
+	}
+}

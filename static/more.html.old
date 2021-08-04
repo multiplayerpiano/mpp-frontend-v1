@@ -1,0 +1,70 @@
+<div class="items">
+	<div class="item">
+		<div class="content">
+			<p>Multiplayer Piano is available in the Chrome Web Store.</p>
+			<p>
+				<a href="https://chrome.google.com/webstore/detail/multiplayer-piano/cbadoggeokhliehfonkefnfcbgocojid" target="_blank">
+					<img src="ChromeWebStore_BadgeWBorder_v2_206x58.png"/>
+				</a>
+			</p>
+			<p>
+				A <a href="https://chrome.google.com/webstore/detail/multiplayer-piano/cbadoggeokhliehfonkefnfcbgocojid/reviews" target="_blank">review</a> is certainly a helpful thing; we need more of those.
+			</p>
+		</div>
+	</div>
+	<div class="item">
+		<div class="content">
+			<p>
+				<a href="https://www.facebook.com/MultiplayerPiano" target="_blank">
+					<img src="FB_FindUsOnFacebook-144.png"/>
+				</a>
+			</p>
+			<p>There is a <a href="https://www.facebook.com/MultiplayerPiano" target="_blank">Facebook page</a> for the site.  Click 'Like' to show your support, learn about updates, and discuss ideas.</p>
+			<p>
+				<div class="fb-like" data-href="http://www.facebook.com/MultiplayerPiano" data-send="false" data-layout="button_count" data-width="300" data-show-faces="false"></div>
+			</p>
+			<p>You could also <a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;">share your current room</a> with your friends.</p>
+		</div>
+	</div>
+	<div class="item">
+		<div class="content">
+			<p>You can share using Twitter, too!</p>
+			<p>
+				<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.multiplayerpiano.com" data-text="Multiplayer Piano" data-via="MultiplayrPiano" target="_blank">Tweet</a>
+			</p>
+			<p>Follow <a href="http://twitter.com/MultiplayrPiano" target="_blank">@MultiplayrPiano</a> for updates.</p>
+		</div>
+	</div>
+	<div class="item">
+		<div class="content">
+			<p>
+				Hey this rectangle is completely empty!
+			</p>
+		</div>
+	</div>
+	<div class="item">
+		<div class="content">
+			<p>Want to donate money to help support the site?  That's amazing! You could donate using PayPal and it would help immensely!</p>
+			<p>
+				<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+					<input type="hidden" name="cmd" value="_s-xclick">
+					<input type="hidden" name="hosted_button_id" value="6YDYHR6UX6QSY">
+					<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+				</form>
+			</p>
+			<p>
+				<a href="bitcoin:15g16JDpYRvWjNKCkYaVnu2FAHCmmaLvGu">Bitcoins</a> can be money, too!
+		</div>
+	</div>
+	<div class="item">
+		<div class="content">
+			<p>My name is Brandon.  You can send an email to ask a question or say hello!</p>
+			<p>
+				<a id="email" href="#" obscured="zhygvcynlrecvnab.pbz@tznvy.pbz">
+					<img src="email.png"/>
+				</a>
+			</p>
+			<p>If you encrypt your message using <a href="http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x38202C5F4E0C0715" target="_blank">my public key</a>, I will think you're awesome automatically!</p>
+		</div>
+	</div>
+</div>
